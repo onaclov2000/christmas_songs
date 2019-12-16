@@ -1,4 +1,5 @@
 # Norwegian Variant, (Original)
+````
 Oh dontcha know, the stars are brightly shining  (O holy night the stars are brightly shining)
 It is the night of the singing christmas tree    (It is the night of our dear Savior's birth)
 Short are the days and kids are outside sledding (Long lay the world in sin and error pining)
@@ -24,5 +25,5 @@ Ooh yes it was
 Ooh it is the night of our dear Savior's birth
 Oh yeah, oh yeah, oh yeah, yeah
 It was a holy holy holy, oh oh oh
-
+````
 
